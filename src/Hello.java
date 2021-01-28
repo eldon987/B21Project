@@ -5,4 +5,8 @@ public class Hello {
     public Hello() {
         System.out.println("Hello");
     }
+
+    public void variationOne() {
+        System.out.println("Hey");
+    }
 }
