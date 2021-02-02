@@ -9,4 +9,6 @@ public class Hello {
     public void variationOne() {
         System.out.println("Hey");
     }
+
+    public void variationTwo() { System.out.println("Hola"); }
 }
